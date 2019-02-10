@@ -19,7 +19,7 @@ def is_creditable(age, salary):
 
     if age < min_age:
         return False #Early Exit
-
+    #тест
     #если был return, то до этой строчки программа не дойдет
 
     if age > max_age:
