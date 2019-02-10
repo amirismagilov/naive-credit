@@ -1,5 +1,5 @@
 def is_creditable(age, salary):
-    #первый тест позитивный
+    # первый тест позитивный
     """
     >>>is_creditable(30,40_000)
     True
